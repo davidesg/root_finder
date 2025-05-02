@@ -18,7 +18,7 @@ P(B) = 1 - c[1]B - c[2]B² - ... - c[N]Bᴺ
 - Math library (`libm`)
 
 ```bash
-git clone https://github.com/warriord/root-finder.git
+git clone https://github.com/davidesg/root-finder.git
 cd root-finder
 mkdir build && cd build
 cmake ..
