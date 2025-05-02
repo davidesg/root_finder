@@ -1,7 +1,7 @@
 # RootFinder - Polynomial Roots Calculator
 
 **Authors**: David E. Guerrero (UCM)
-**License**: BSD-3-Clause
+**License**: GPL3
 
 Tool for calculating roots and factors of normalized polynomials in the form:
 
